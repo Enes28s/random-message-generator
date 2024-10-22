@@ -1,6 +1,4 @@
-//bir tane kelimeler objesi ve icinde kelime dizileri
-//bir tane random fonksiyonu
-//ana fonksiyon, bir adet parametre alip o pparametreye gore random cumle olusturcak -parametre cumlenin turunu isticek
+
 const words = {
   sad: {
     subject: ["The boy", "The girl", "The dog", "The old man"],
